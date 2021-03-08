@@ -82,12 +82,8 @@ experiences:
       time: Oct 2018 - Present
       company: IdeaSpies.com | Sydney, Australia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo.
+        Idea management platform in alliance with KPMG Australia – won the top 100 coolest
+        companies of Australia award in 2016
           - Conduct day-to-day project coordination, planning, and implementation across multiple teams
           - Built enterprise-level web applications
           - Improved codes to automate other tasks
@@ -105,9 +101,20 @@ experiences:
           - Act as primary liaison between client and IT team
           - Develop stages and handling any issues that arise
           - Worked with editorial and marketing teams to drive SEO in content creation and content programming
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Mobile / Web Developer
+      time: Jun 2013 - March 2018
+      company: Touro College | New York, USA
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Designed, developed and maintained company website and mobile app
+          - Created high-quality mock-ups and prototypes
+    - role: Mobile / Web Developer
+      time: Jun 2013 - March 2018
+      company: Touro College | New York, USA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -144,16 +151,16 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: CERTIFICATIONS
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Elements of AI
+        link: "https://certificates.mooc.fi/validate/992ioovo91u"
+        authors: University of Helsinki
+        conference: 2020
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
