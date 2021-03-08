@@ -158,7 +158,7 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: Elements of AI
-        link: "https://certificates.mooc.fi/validate/992ioovo91u"
+        link: "#https://certificates.mooc.fi/validate/992ioovo91u"
         authors: University of Helsinki
         conference: 2020
 
