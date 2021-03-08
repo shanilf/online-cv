@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Shanil Fernando
-    tagline: Full Stack Developer
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -55,9 +55,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Masters in Mobile, Web & Multimedia
+      university: Touro College | New York, USA
+      time: Jan 2013 - Dec 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +66,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.Sc (Hons) in Computing
+      university: Staffordshire University | Staffordshire, UK
+      time: Jan 2009 - Dec 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,32 +78,33 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Head of IT / Lead Web Developer (Remote)
+      time: Oct 2018 - Present
+      company: IdeaSpies.com | Sydney, Australia
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        enim. Donec pede justo.
+          - Conduct day-to-day project coordination, planning, and implementation across multiple teams
+          - Built enterprise-level web applications
+          - Improved codes to automate other tasks
+          - Developed new libraries with Micro Services architecture using Rest APIs
+    - role: Project Manager / SEO Specialist
+      time: April 2018 - Oct 2018
+      company: Protocol Infotech | Florida, USA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Recommended changes to website architecture, content, linking and other factors to improve SEO positions for target keywords.
+          - Act as primary liaison between client and IT team
+          - Develop stages and handling any issues that arise
+          - Worked with editorial and marketing teams to drive SEO in content creation and content programming
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
